@@ -1,0 +1,5 @@
+1.Program to calculate Factorial of a number 
+2.Program to calculate Product of the digits of a number
+3.Program to check if the given number is a palindrome
+4.Program to calculate the sum of digits of a number
+5.Program to calculate the tables of the given number n till the table of 10

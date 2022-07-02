@@ -1,0 +1,98 @@
+1. write a python program which accepts one input
+
+input: "hii"
+output:"bye"
+
+input: "bye"
+output: "hii"
+
+
+
+2. check a number whether the number divisible by 5,11 and 15
+
+input:55
+
+output:
+
+divisible by 5 
+divisible by 11
+not divisible by 15
+
+3. check validation : a password must contain one lowercase, one Uppercase, one specialsymbol, one digit,and length password must be less than 10 character and more than 5 character
+input: Py@123
+output:	Valid password	
+
+input :99999
+output:invalid password
+
+4. check that user is having correct password or not.
+	
+step 1: first you have to do the registration of 1 user
+	1. username
+	2. password
+step 2: for login you have to take the input:
+	1. username
+	2. password
+	
+	if the username and passwords matches the give a message "you have loged in"
+
+5. Write a Python program that reads one integers representing a day and a srting representing month and prints the season of that month and day.	
+	input:
+		month - 12
+		date - 5
+	output:
+		season - Winter
+
+	season chart	:  December, January, February 	- winter
+			   March, April, May		- Spring
+			   June, July, August   	- Summer
+			   september, october, november - Autumn
+
+	note** All the validation should be under considaration 
+
+6.  after passing 12th everyone is confused that which domin they shoud select.
+    we will design a councelling exam which will guide the student in which domin the student should go.
+    for now we are considering only 3 major domians 1. Science 2. Commerce 3. Arts
+	
+	
+    you have to ask 5 Questions to the students having 4 options 
+	ex:
+		which one will you prefer to do?
+		1. Using Laptop in home
+		2. Explore the Tourist place
+		3. Playing the out door game
+		4. Solve Mathematical Problems
+		
+		ans1= 1
+
+	According to the answer the ouput will be in top 2 domain priority wise
+		
+		1. Science
+		2. Arts 
+
+	note: Question Will be of your Choice
+
+7. Lets Play KBC
+	
+	You have to ask 15 Qustion based on Codeing consisting of 5 option out of 5 , 1 option is common i.e. Quit
+	
+	In this game there are certain stages if the candidate cross that particular stage then the minimum amount will be fixed for him/her there are two stages 1st stage is at qus no 5 and 2nd stage is qus  no 10
+	if candidate cross question no 5 the minimum amout will be fixed i.e. 10,000
+
+	if candidate does'nt want to continue the game then need to press on quite the output should be maximum winning amount
+	
+	15		?1 Crore
+	14		?50,00,000	
+	13		?25,00,000	
+	12		?12,50,000	
+	11		?6,40,000
+	10		?3,20,000	
+	9		?1,60,000
+	8		?80,000
+	7		?40,000
+	6		?20,000	
+	5		?10,000
+	4		?5,000
+	3		?3,000
+	2		?2,000
+	1		?1,000

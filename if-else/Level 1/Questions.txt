@@ -1,0 +1,92 @@
+//Questions
+1 A company decided to give bonus of 5% to employee if his/her year of service is more than 5 years.
+Ask user for their salary and year of service and print the net bonus amount.
+
+2 Take values of length and breadth of a rectangle from user and check if it is square or not.
+
+3 Take two int values from user and print greatest among them.
+
+4 A shop will give discount of 10% if the cost of purchased quantity is more than 1000.
+Ask user for quantity
+Suppose, one unit will cost 100.
+Judge and print total cost for user.
+
+5 A school has following rules for grading system:
+a. Below 25 - F
+b. 25 to 45 - E
+c. 45 to 50 - D
+d. 50 to 60 - C
+e. 60 to 80 - B
+f. Above 80 - A
+Ask user to enter marks and print the corresponding grade.
+
+6 Take input of age of 3 people by user and determine oldest and youngest among them.
+
+7 Write a program to print absolute value of a number entered by user. E.g.-
+	INPUT: 1        OUTPUT: 1	
+	INPUT: -1        OUTPUT: 1
+
+8 A student will not be allowed to sit in exam if his/her attendance is less than 75%.
+Take following input from user
+Number of classes held			-		7856
+Number of classes attended.		-		856			80%
+And print
+percentage of class attended
+Is student is allowed to sit in exam or not.
+
+9 Write a program to calculate the electricity bill (accept number of unit from user) according to the following criteria : 
+Unit Price First 100 units 3.5 rs  per unit
+Next 100 units Rs 5 per unit 
+After 200 units Rs 10 per unit 
+after that 15rs per unit
+
+
+1000<   meter charge= costing 10%
+		tax = costing 9%
+
+1000>   meter charge= costing 20%
+		tax = costing 18%
+
+
+10 Write a program to accept the cost price of a bike and display the road tax to be paid according to the following criteria: 
+Cost price (in Rs) 			Tax 
+100000 				15 % 
+> 50000 and <= 100000 		10% 
+<= 50000 			5% 
+
+11 Write a Python program to check a triangle is . 
+Note :
+An equilateral triangle is a triangle in which all three sides are equal.
+A scalene triangle is a triangle that has three unequal sides.
+An isosceles triangle is a triangle with (at least) two equal sides.
+
+12 Write a Python program to find the median of three values.
+Expected Output:
+Input first number: 15 
+Input second number: 26 
+Input third number: 29 
+The median is 26.0
+
+13 Write a Python program to get next day of a given date.
+Expected Output:
+Input a year: 2016 Input a month [1-12]: 08 Input a day [1-31]: 23 The next date is [yyyy-mm-dd] 2016-8-24 
+
+
+year=2022
+month = 12
+day=12
+
+13-12-2022
+
+year=2022
+month = 2
+day=28
+
+01-3-2022
+
+year=2022
+month = 12
+day=31
+
+
+01-1-2023
